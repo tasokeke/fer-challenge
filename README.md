@@ -4,8 +4,8 @@
 PyTorch ფრეიმვორკის გამოყენებით ავაგეთ სხვადასხვა ნეირონული ქსელის არქიტექტურა, დავტესტეთ თითოეულისთვის სხვადასხვა პარამეტრი, ჩავატარეთ განსხვავებული ექსპერიმენტები, რათა მოდელის ეფექტურობა გაგვეზარდა. 
 ყველა ექსპერიმენტი დალოგილია და ორგანიზებულია Weights & Biases (WandB)-ზე, სადაც თითოეულ ნოუთბუქს აქვს შესაბამისი არქიტექტურის ჯგუფი და თითოეულში გვაქვს სხვადასხვა პარამეტრით განსხვავებული ექსპერიმენტები.  
 
-WandB პროექტის ლინკი:  https://wandb.ai/akeke23-free-university-of-tbilisi-/fer-challenge
-WandB Report ლინკი: https://wandb.ai/akeke23-free-university-of-tbilisi-/fer-challenge/reports/FER-CHALLENGE--VmlldzoxNzI0OTk3OQ
+* WandB პროექტის ლინკი:  https://wandb.ai/akeke23-free-university-of-tbilisi-/fer-challenge
+* WandB Report ლინკი: https://wandb.ai/akeke23-free-university-of-tbilisi-/fer-challenge/reports/FER-CHALLENGE--VmlldzoxNzI0OTk3OQ
 
 ### **რეპოზიტორიის სტრუქტურა**
 რეპოზიტორიაში გვაქვს 4 ფაილი - 00_eda.ipynb, 01_simpleCNN.ipynb, 02_deepCNN.ipynb, 03_ResNet.ipynb
